@@ -1,0 +1,8 @@
+{
+  "provider": "PELCO I (Pampanga I Electric Cooperative)",
+  "residential_per_kwh": 12.06,
+  "residential_per_kwh_ex_vat": 10.7644,
+  "as_of": "September 2026",
+  "source": "PELCO I unbundled rate schedule, September 2026 (pelco1.org.ph/rates)",
+  "note": "September schedule residential total is 10.7644/kWh except VAT; 12.06 adds 12% VAT (computed). October 2026 files on PELCO I site return File not found, so September is the latest verified month."
+}
